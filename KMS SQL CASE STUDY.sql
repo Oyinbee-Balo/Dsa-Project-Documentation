@@ -1,6 +1,5 @@
 ----- DSA Capstone Project 
------Kultra Mega Stores Inventory Case Study
------Candidate Name: Adeiye Akande 
+-----Kultra Mega Stores Inventory Case 
 
 
 ----1. Product Category With The Highest Sale is Technology with Total sales of 5984248.18199998
